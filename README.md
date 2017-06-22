@@ -1,0 +1,2 @@
+# Thaicoin
+Decentralized Currency
